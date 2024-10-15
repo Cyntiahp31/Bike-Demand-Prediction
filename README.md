@@ -1,5 +1,5 @@
 # Bike-Sharing
-Link Canva: https://www.canva.com/design/DAGGTm5lVNE/kzOEYn4ZZHWgxlT5INpFxw/edit?utm_content=DAGGTm5lVNE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link Canva: https://www.canva.com/design/DAGGTm5lVNE/U4u82vInGHAlufgh53yang/view?utm_content=DAGGTm5lVNE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Link Video: https://drive.google.com/file/d/1Rn3j3iZd55on9FhpYlO0HlGIPT4vxcOB/view?usp=sharing
 
